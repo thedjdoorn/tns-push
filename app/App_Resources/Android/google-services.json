@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "840436096073",
+    "firebase_url": "https://tns-notify.firebaseio.com",
+    "project_id": "tns-notify",
+    "storage_bucket": "tns-notify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840436096073:android:92532374b0a46481",
+        "android_client_info": {
+          "package_name": "org.thedjdoorn.tnsnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840436096073-jok3khc1u04ec9chmmp4hm5fe621g7au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgCwTdpxySycR6B7pPA-45gCL0PvONrPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
