@@ -1,6 +1,8 @@
 ## About this project
 This is a sample project for sending push notifications using Firebase. It basically handles FCM Message and turns it into a local notification. The app itself is based on the Angular template. This project currently only supports the Android platform.
 
+*NOTICE:* I made this over 2,5 years ago and therefore this could be considered old as heck. Also, Nativescript changed a bunch so this is most definitely not up-to-date anymore. Consider using something good
+
 ## Running your own version
 In order to make this project work for your own Firebase project, you have to do the following things:
 * Replace *app/App_Resources/Android/google-services.json* with the one downloaded from the Firebase console
